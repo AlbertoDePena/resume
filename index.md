@@ -26,7 +26,7 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 * Manage Azure VMs
 * Implement JavaScript (TypeScript) client framework - AngularJS and Aurelia
 
-*AngularJS, TypeScript, Aurelia, IIS, NServiceBus, MongoDB, Azure, VSO, MS SQL Server, DotNetCore, Web API, OnBase, C#, F#*
+*VueJS, AngularJS, Aurelia, IIS, NServiceBus, MongoDB, Azure, VSO, MS SQL Server, DotNetCore, Web API, OnBase, TypeScript, C#, F#*
 
 ### Proformance, Inc
 
@@ -38,7 +38,7 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 * Built several WiX installers
 * Developed OnBase unity scripts to aid in software workflow design
 
-*Win Form (C#) + MVVM, NHibernate, MS SQL Server, WCF, WPF + MVVM, Entity Framework, OnBase*
+*Win Form (C#) + MVVM, NHibernate, MS SQL Server, WCF, WPF + MVVM, Caliburn Micro, Entity Framework, OnBase*
 
 ## Certifications
 
