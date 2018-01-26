@@ -24,7 +24,7 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 * Organize manual and automated deployments of web applications using IIS
 * Develop OnBase workflows, unity scripts, unity forms and integration web applications utilities
 * Manage Azure VMs
-* Implement JavaScript (TypeScript) client framework - AngularJS and Aurelia
+* Implement JavaScript (TypeScript) client framework
 
 *VueJS, AngularJS, Aurelia, IIS, NServiceBus, MongoDB, Azure, VSO, MS SQL Server, DotNetCore, Web API, OnBase, TypeScript, C#, F#*
 
