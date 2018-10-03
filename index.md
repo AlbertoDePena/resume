@@ -12,9 +12,9 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 
 ## Experience
 
-### Agile Upstream Group
+### Thought Trace (formerly Agile Upstream Group)
 
-*Full Stack developer with banking / oil and gas industry background - December 2013 - Present Day*
+*Senior Full Stack developer with banking / oil and gas industry background - December 2013 - Present Day*
 
 * Contribute in web application that auto reads and extracts data from Leases and other related documents.
 * Support web application that tracks AFEs and land related documents.
@@ -27,7 +27,7 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 * Cloud solutions with Azure Functions / Azure Cosmos DB
 * Implement JavaScript (TypeScript) client framework
 
-*VueJS, AngularJS, Aurelia, IIS, NServiceBus, MongoDB, Azure, VSO, MS SQL Server, DotNetCore, Web API, OnBase, TypeScript, C#, F#*
+*VueJS, AngularJS, Aurelia, IIS, NServiceBus, MongoDB, Entity Framework, Azure, VSO, MS SQL Server, DotNetCore, Asp Net Core (MVC), Web API, Docker, OnBase, TypeScript, C#, F#*
 
 ### Proformance, Inc
 
