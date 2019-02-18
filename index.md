@@ -12,9 +12,13 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 
 ## Experience
 
+### Rush Enterprises
+
+*Senior software developer - November 2018 - Present Day*
+
 ### Thought Trace (formerly Agile Upstream Group)
 
-*Senior Full Stack developer with banking / oil and gas industry background - December 2013 - Present Day*
+*Senior Full Stack developer with banking / oil and gas industry background - December 2013 - November 2018*
 
 * Contribute in web application that auto reads and extracts data from Leases and other related documents.
 * Support web application that tracks AFEs and land related documents.
