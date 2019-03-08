@@ -16,6 +16,10 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 
 *Senior software developer - November 2018 - Present Day*
 
+* Azure Dev Ops
+* Full-Stack development
+* Software Architecture
+
 *Angular 7, Azure, DotNetCore, MS SQL Server, Entity Framework Core, C#, F#, Docker, Docker-Compose*
 
 ### Thought Trace (formerly Agile Upstream Group)
