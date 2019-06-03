@@ -14,7 +14,7 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 
 ### Personal Projects
 
-*Research new trends /  any thing related to Software Development*
+*Research new trends /  anything related to Software Development*
 
 * Docker (Swarm)
 * Kubernetes
