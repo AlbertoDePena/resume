@@ -20,6 +20,8 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 * Kubernetes
 * Azure Service Fabric
 * Linux Snaps
+* Multipass
+* Microk8s
 
 ### Rush Enterprises
 
@@ -29,7 +31,7 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 * Full-Stack development
 * Software Architecture
 
-*Angular 7, Azure, DotNetCore, MS SQL Server, Entity Framework Core, C#, F#, Docker, Docker-Compose, Docker Swarm, Kubernetes*
+*Angular 7, Azure, DotNetCore, MS SQL Server, Entity Framework Core, C#, F#, Docker, Docker-Compose, Docker Swarm, Kubernetes, Microk8s, Azure Functions, Azure Durable Functions, AKS, ASB*
 
 ### Thought Trace (formerly Agile Upstream Group)
 
