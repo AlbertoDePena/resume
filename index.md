@@ -1,6 +1,6 @@
 # Alberto De Pena
 
-Senior Software Developer with 6 years experience from New Braunfels TX.
+Senior Software Developer with 7 years experience from New Braunfels TX.
 
 ## Information
 
@@ -8,7 +8,6 @@ Senior Software Developer with 6 years experience from New Braunfels TX.
 * Phone #: 830-358-0822
 * LinkedIn: <a href="https://www.linkedin.com/in/alberto-de-pena">alberto-de-pena</a>
 * GitHub: <a href="https://github.com/albertodepena">albertodepena</a>
-* Twitter: <a href="https://twitter.com/ardepena">ardepena<a/>
 
 ## Experience
 
